@@ -1,0 +1,5 @@
+MinorFU(
+    opList=[OpClass.floatSimd],
+    opLat=1,      # Operational Latency
+    issueLat=6    # Issue Latency
+)
